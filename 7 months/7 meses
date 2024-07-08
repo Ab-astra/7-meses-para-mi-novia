@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7 Meses de Noviazgo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #ff9999;
+            color: white;
+            padding: 10px 0;
+        }
+        .content {
+            margin: 20px auto;
+            max-width: 600px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #ff9999;
+            color: white;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>¡Feliz 7 Meses, Amor!</h1>
+    </header>
+    <div class="content">
+        <p>Querida [Nombre de tu novia],</p>
+        <p>No puedo creer que ya hayan pasado 7 meses desde que comenzamos esta hermosa aventura juntos. Cada día a tu lado es un regalo y estoy muy agradecido por cada momento que compartimos.</p>
+        <h2>Nuestros Momentos Especiales</h2>
+        <img src="foto1.jpg" alt="Foto de un momento especial">
+        <img src="foto2.jpg" alt="Foto de otro momento especial">
+        <h2>Nuestros Recuerdos</h2>
+        <ul>
+            <li>Nuestra primera cita</li>
+            <li>El día que fuimos a la playa</li>
+            <li>Las noches de películas</li>
+            <li>Nuestras aventuras en la montaña</li>
+        </ul>
+        <p>Gracias por ser la mejor novia del mundo. Te amo con todo mi corazón.</p>
+    </div>
+    <footer>
+        <p>Con amor, [Tu Nombre]</p>
+    </footer>
+</body>
+</html>
